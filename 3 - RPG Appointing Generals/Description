@@ -1,0 +1,1 @@
+In this program you are given info on a randomly generated warrior. You can decide to appoint them to general and you can bring up a list of all the warriors you have appointed to general. It uses a stack to store and retrieve information on selected applicants.
