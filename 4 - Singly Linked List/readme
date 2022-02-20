@@ -1,0 +1,1 @@
+This program uses a singly linked list to store information on pokemon. The program enters 10 pokemon into the database, fetches and displays them, then updates one and deletes one and then displays them all again. (No user input)
