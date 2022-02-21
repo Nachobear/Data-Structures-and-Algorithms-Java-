@@ -1,0 +1,1 @@
+This program creates 100 integers between 1-200 (no repeats) and then stores them in a tree data structure. Then the user enters an integer and the program will tell them if it is in the structure.
